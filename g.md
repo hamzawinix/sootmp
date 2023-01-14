@@ -1,6 +1,6 @@
 Q1
 didn't understand difference between those 
-![](https://i.imgur.com/dryW2Vj.png)
+[](https://i.imgur.com/dryW2Vj.png)
 
 so I did this 
 ![](https://i.imgur.com/pdhKq2l.png)
